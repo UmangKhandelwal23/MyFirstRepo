@@ -2,6 +2,6 @@ Resources:
   MyWebServer:
     Type: AWS::EC2::Instance
     Properties:
-      InstanceType: t2.medium
+      InstanceType: t2.large
       ImageId: ami-0123456789abcdef0
       KeyName: my-keypair

@@ -4,3 +4,4 @@ Resources:
     Properties:
       InstanceType: t2.medium
       ImageId: ami-0123456789abcdef0
+      KeyName: my-keypair

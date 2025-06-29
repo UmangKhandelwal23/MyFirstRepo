@@ -2,5 +2,5 @@ Resources:
   MyWebServer:
     Type: AWS::EC2::Instance
     Properties:
-      InstanceType: t2.micro
+      InstanceType: t2.medium
       ImageId: ami-0123456789abcdef0
